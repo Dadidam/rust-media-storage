@@ -1,1 +1,1 @@
-# rush-media-storage
+# rust-media-storage
